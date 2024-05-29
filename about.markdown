@@ -1,18 +1,12 @@
 ---
-layout: page
+layout: archive
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Hi there, I’m Habeeb Akande!
+I started my career as a database system administrator and developer working with an IT consulting firm in Nigeria. I supported different client database project in public sector ranging from socio-economic development, pension management and health insurance.I was very good at the details of the software programs I was using and began to teach. Through the years, I became curious about how data analytic, engineering and visualization. I went on to obtain a post graduate degree in Statistics after joining delvelopment work. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I’m passionate about building beautiful and user-centric products for the web. I am a lifelong learner who loves to teach, which has led to my role as a Product Manager in the EdTech space.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I currently looking for work that utilizes my expertise and industry knowledge and allows me to grow as a Product Manager and strategist.
